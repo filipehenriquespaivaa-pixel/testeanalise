@@ -1,0 +1,6 @@
+{
+  "name": "Jogos do Dia - Football Data",
+  "description": "Acompanhamento de jogos ao vivo, banco de dados histórico de 5 anos e fichas de clubes cobrindo 20 competições com integração tripla Football-Data.org, API-Football e TheSportsDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
